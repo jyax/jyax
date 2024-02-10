@@ -6,7 +6,7 @@
 <img align="left" src="https://github-readme-stats.vercel.app/api/top-langs?username=jyax&show_icons=true&locale=en&layout=compact" alt="jyax" /> 
 <ul align="left">
   <li>I’m currently working on <a href="https://github.com/jyax/DWL">Dynamic Windows Tool</a></li>
-  <li>I’m currently collaborating on <a href="https://github.com/EzequielMussambe37/cse482Project">Steam Game Recommendation Tool</a></li>
+  <li>I’m currently collaborating on <a href="https://github.com/jyax/steam-game-recommender-web-app">Steam Game Recommendation Tool</a></li>
 </ul>
 <br>
 <h1>&nbsp;</h1>
