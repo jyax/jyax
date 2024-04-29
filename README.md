@@ -5,8 +5,8 @@
 <p align="left"> <img src="https://komarev.com/ghpvc/?username=jyax&label=Profile%20views&color=0e75b6&style=flat" alt="jyax" /> </p>
 <img align="left" src="https://github-readme-stats.vercel.app/api/top-langs?username=jyax&show_icons=true&locale=en&layout=compact" alt="jyax" /> 
 <ul align="left">
-  <li>I’m currently working on <a href="https://www.jakeyax.dev/">A react based portfolio</a></li>
-  <li>I’m currently collaborating on <a href="https://github.com/jyax/404-steam-recommendation-model">Steam Game Recommendation Tool</a></li>
+  <li>I’m currently working on <a href="https://www.jakeyax.dev/">A React Based portfolio using Tailwind CSS</a></li>
+  <li>I’m currently migrating additional projects from my university gitlab.</li>
 </ul>
 <br>
 <h1>&nbsp;</h1>
