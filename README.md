@@ -1,5 +1,5 @@
 <h1 align="center">Hi There, I'm Jake Yax</h1>
-<h3 align="center">A student in Computer Science studying at Michigan State University</h3>
+<h3 align="center">A fresh graduate in Computer Science from Michigan State University</h3>
 
 
 <p align="left"> <img src="https://komarev.com/ghpvc/?username=jyax&label=Profile%20views&color=0e75b6&style=flat" alt="jyax" /> </p>
