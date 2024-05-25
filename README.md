@@ -6,7 +6,7 @@
 <img align="left" src="https://github-readme-stats.vercel.app/api/top-langs?username=jyax&show_icons=true&locale=en&layout=compact" alt="jyax" /> 
 <ul align="left">
   <li>I’m currently working on <a href="https://www.jakeyax.dev/">A React Based Portfolio using Tailwind CSS</a></li>
-  <li>I'm starting <a href="https://www.github.com/jyax/tft-roulette/">TFT Roulette</a>, a TFT Strategy Randomizer</li>
+  <li>I'm starting a project for a Teamfight Tactics Strategy Randomizer called <a href="https://www.github.com/jyax/tft-roulette/">TFT Roulette</a></li>
   <li>I'm developing demos of projects that will be hosted within <a href="https://www.jakeyax.dev">my site</a></li>
 </ul>
 <br>
